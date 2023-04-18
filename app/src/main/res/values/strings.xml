@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sumarum</string>
+    <string name="nemate_ra_un_registrirajte_se">Nemate račun? <b>Registrirajte se</b></string>
+    <string name="ve_imate_ra_un_prijavite_se">Već imate račun? <b>Prijavite se</b></string>
+    <string name="sveu_ili_te_u_mostaru"><b>Sveučilište u Mostaru</b></string>
+    <string name="pretra_ivanje">Pretraživanje</string>
+    <string name="zapamti_me">Zapamti me</string>
+    <string name="odaberi">Odaberi kolegij</string>
+    <string name="save_script">Save Script</string>
+    <string name="AbouUs">Predstavlja drugo najveće sveučilište u Bosni i Hercegovini sa sjedištem u Mostaru, osnovano je 1977.godine. Jedino je sveučilište na hrvatskom jeziku izvan Republike Hrvatske. Sveučilište imadeset fakulteta i jednu Akademiju umjetnosti s 50 različitih studija, 46 specijalizacija i 70 studijskih grupa. Zbog ovoga je Sveučilište u Mostaru jedno od najraznovrsnijih školskih ustanova u BiH. Sveučilište u Mostaru najbrže je rastuće sveučilište u BiH s 10 712 studenata, od čega njih 17% dolazi iz Republike Hrvatske.Svi fakulteti su smješteni u Mostaru, izuzev Akademije likovnih umjetnosti koja se nalazi u Širokom Brijegu. Najveći broj sveučilišnih objekata nalazi se u kampusu 1 u središtu grada Mostara, dio objekata nalazi se u kampusu 2 u prigradskom naselju Rodoč, dok se zgrade Medicinskog fakulteta i Fakulteta zdravstvenih studija nalaze u krugu Sveučilišne kliničke bolnice u Mostaru.</string>
+    <string name="prijava">Prijava</string>
+    <string name="dobrodo_li_na_skriptomat">Dobrodošli na Skriptomat</string>
+    <string name="registracija">Registracija</string>
+    <string name="jednojesveu_ili_te">#jednojeSveučilište</string>
+</resources>
